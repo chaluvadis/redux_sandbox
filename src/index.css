@@ -1,0 +1,21 @@
+body {
+  margin: 20px auto;
+  padding: 20px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.label {
+  font-size: 30px;
+}
+
+.button {
+  width:50px;
+  background-color: rebeccapurple;
+  color:white;
+  font-size: 30px;
+  color:white;
+  font-weight: "700";
+  border: none;
+  margin: 10px;
+}
